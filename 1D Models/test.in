@@ -17,4 +17,4 @@
 #box: 0 0 0 0.2 0.270 0.001 sand
 #box: 0 0 0 0.2 0.150 0.001 pec
 
-#geometry_view: 0 0 0 0.2 0.3 0.001 0.001 0.001 0.001 half_space n 
+#geometry_view: 0 0 0 0.2 0.3 0.001 0.001 0.001 0.001 half_space n
